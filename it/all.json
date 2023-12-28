@@ -1,0 +1,53 @@
+{
+  "LANGUAGE": {
+    "LANGUAGE_WORD": "Lingua",
+    "TRANSLATION_INFO_SETTINGS": "La traduzione è ancora in divenire; vedrai un mix di Inglese e della lingua selezionata.<br>Ci puoi aiutare a tradurre leggendo il <guideLink>tutorial</guideLink> e poi usando il nostro <editorLink>web editor</editorLink>"
+  },
+  "COMMON": {
+    "ACTIONS": {
+      "CREATE": "Creare",
+      "REMOVE": "Rimuovere",
+      "DELETE": "Cancellare",
+      "EDIT": "Editare",
+      "DUPLICATE": "Duplicare",
+      "APPLY": "Applicare",
+      "UPDATE": "Aggiornare",
+      "VIEW": "Vista",
+      "HIDE": "Nascondere"
+    }
+  },
+  "SETTINGS": {
+    "ACCOUNT": {
+      "PROFILE_TITLE": "Profilo",
+      "MY_PROFILE": "Il Mio Profilo",
+      "PROFILE": {
+        "KEYWORDS": "Profilo User Personale"
+      },
+      "IMPORT_EXPORT_TITLE": "Importare ed Esportare",
+      "EXPORT_IMPORT": {
+        "KEYWORDS": "Esportare Backup Esportare Roam Dynalist Logseq Notion Evernote Obsidian"
+      },
+      "NAVIGATION_TITLE": "Navigazione",
+      "NAVIGATION": {
+        "KEYWORDS": "Esportazione e Backup Vista Cestino Rem Importazione Conoscenza Base Vedi Tutte Le Carte Scarica un Backup Giornaliero Impostazioni Avanzate Cancella Tutti i Rem "
+      },
+      "AUTHENTICATION_TITLE": "Autenticazione",
+      "AUTHENTICATION": {
+        "KEYWORDS": "Disconnessione Disconnessione Metodo Login di Google Aggiungi Disconnettere Iscriversi Accedere"
+      },
+      "ADVANCED_TITLE": "Impostazioni Avanzate",
+      "ADVANCED": {
+        "KEYWORDS": "Supporto Ricablare Cerca Risolvi Bug"
+      },
+      "DANGER_ZONE_TITLE": "Area di Pericolo",
+      "PRIVACY_NOTE": "Privacy: Leggi la nostra <policyLink>Politica di Privacy</policyLink>, o cambia le tue impostazioni nel nostro <hubLink>Centro di Privacy</hubLink>. ",
+      "DANGER_ZONE": {
+        "TITLE": "Zona di Pericolo",
+        "KEYWORDS": "sincronizza log cancella account resetta passo dopo passo progesso resetta onboarding impostazioni account avanzate"
+      },
+      "NOTIFICATIONS": {
+        "TITLE": "Sequenza Notifiche Cellulare"
+      }
+    }
+  }
+}
